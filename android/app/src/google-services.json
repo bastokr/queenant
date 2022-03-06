@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917242521730",
+    "project_id": "queenant",
+    "storage_bucket": "queenant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917242521730:android:321370463cd76713fa6c9b",
+        "android_client_info": {
+          "package_name": "com.shsoft.queenant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917242521730-46ffjhh4qascn8jrt0vbeeupktnidimp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wGHyC5jMfyCjzfd9UnHvF68h4mMwgnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917242521730-46ffjhh4qascn8jrt0vbeeupktnidimp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
